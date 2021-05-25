@@ -649,10 +649,6 @@ nav a:after {display:none;}
 </head>
  
 <body class="fade-out"> 
-
-<!--container-->
- 
-<section id="container">
  
 <!--sidebar-->
  
@@ -669,6 +665,10 @@ nav a:after {display:none;}
     {block:ifLink3}<a href="{text:Link 3 URL}">{text:Link 3}</a>{/block:ifLink3}
   </nav>
 </div>
+
+<!--container-->
+ 
+<section id="container">
  
 <!--posts-->
  
